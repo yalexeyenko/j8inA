@@ -1,4 +1,4 @@
-package lambdaexpressions;
+package lambdaexpressions.lambdavsananymous;
 
 public class Runner {
 
