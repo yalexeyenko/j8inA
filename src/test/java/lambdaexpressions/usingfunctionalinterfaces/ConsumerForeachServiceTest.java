@@ -6,13 +6,13 @@ import org.junit.Test;
 import java.util.Arrays;
 import java.util.List;
 
-public class ConsumerServiceTest {
+public class ConsumerForeachServiceTest {
 
-    private ConsumerService service;
+    private ConsumerForeachService service;
 
     @Before
     public void setUp() {
-        service = new ConsumerService();
+        service = new ConsumerForeachService();
     }
 
     @Test
