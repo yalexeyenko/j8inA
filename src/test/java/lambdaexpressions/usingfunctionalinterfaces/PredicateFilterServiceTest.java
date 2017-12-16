@@ -1,6 +1,5 @@
 package lambdaexpressions.usingfunctionalinterfaces;
 
-import org.hamcrest.MatcherAssert;
 import org.junit.Before;
 import org.junit.Test;
 
