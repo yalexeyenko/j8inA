@@ -47,7 +47,7 @@ public class ConstructorReferenceServiceTest {
     }
 
     @Test
-    public void shouldReturnFruitFromMap(){
+    public void shouldReturnFruitFromMap() {
         // when
         Apple result = service.giveMeFruitWitWeight("apple", 200);
         // then
